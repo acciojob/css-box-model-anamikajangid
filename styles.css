@@ -2,7 +2,8 @@ div{
 	margin:20px;
 	border:15px solid blue;
 	padding:50px;
-	width:300px;	
+	width:300px;
+	background-color:rgb(173, 216, 230);
 }
 p{
 	border-style:dotted;
